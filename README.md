@@ -1,10 +1,11 @@
 # DEMO Flight booking app
 
+https://github.com/willtonkin/expo-flight-demo/assets/1245553/2c71b767-c78a-4971-ad4b-25acf7bf3509
+
 ## Some notes for me
 
-- components picked from [expo component list](https://docs.expo.dev/versions/latest/sdk/)
-- we are making heave use of https://docs.expo.dev/router/
-https://reactnative.dev/docs/switch
+- components picked from [expo SDK component list](https://docs.expo.dev/versions/latest/sdk/) and [React Native Docs](https://reactnative.dev/docs)
+- we are making heavy use of https://docs.expo.dev/router/
 
 ## Todo
 
