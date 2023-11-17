@@ -16,13 +16,9 @@ export default function Home() {
       <Button
         title="Search flights"
         onPress={() => {
-          router.push({
-            pathname: "search",
-            params: { direction: "to" }
-          });
+          router.push("/locations");
         }}
       />
-      <Link href="/search?direc=asdf">link text</Link>
     </View>
   );
 }

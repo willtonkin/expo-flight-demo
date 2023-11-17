@@ -1,9 +1,9 @@
 import { Picker } from "@react-native-picker/picker";
-import { Link, Stack, useLocalSearchParams, useRouter } from "expo-router";
+import { Stack, useLocalSearchParams, useRouter } from "expo-router";
 import { Button, Text, View } from "react-native";
 
-import flightData from "../../flight-data.json";
 import { useMemo, useState } from "react";
+import { useFlightData } from "../../helpers/flightData";
 
 function isDirection(test: any): test is "to" | "from" {
   return typeof test === "string" && ["from", "to"].includes(test);
@@ -20,13 +20,14 @@ export default function Page() {
 
   const [country, setCountry] = useState(pickerDirection === "from" ? from : to);
 
+  const flightData = useFlightData();
+
   const locations = useMemo(() => {
     return flightData.reduce<{ [key: string]: string }>((acc, item) => {
       acc[item.ToAirport] = item.ToAirportName;
       return acc;
     }, {});
   }, [flightData]);
-
 
   const directionString = { from: "departure", to: "arrival" }[pickerDirection];
 
@@ -55,7 +56,7 @@ export default function Page() {
         title="select"
         onPress={() => {
           router.push({
-            pathname: "search",
+            pathname: "/locations",
             params: {
               ...params,
               [pickerDirection as string]: country,
