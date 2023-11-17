@@ -1,0 +1,2306 @@
+[
+  {
+    "FlightId": "DY804",
+    "FromAirport": "OSL",
+    "FromAirportName": "Oslo",
+    "ToAirport": "ARN",
+    "ToAirportName": "Stockholm",
+    "AirlineName": "Norwegian",
+    "ScheduledTimeFull": "202309010740"
+  },
+  {
+    "FlightId": "SK482",
+    "FromAirport": "OSL",
+    "FromAirportName": "Oslo",
+    "ToAirport": "ARN",
+    "ToAirportName": "Stockholm",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309010740"
+  },
+  {
+    "FlightId": "D84104",
+    "FromAirport": "OSL",
+    "FromAirportName": "Oslo",
+    "ToAirport": "ARN",
+    "ToAirportName": "Stockholm",
+    "AirlineName": "Norwegian",
+    "ScheduledTimeFull": "202309010830"
+  },
+  {
+    "FlightId": "SK480",
+    "FromAirport": "OSL",
+    "FromAirportName": "Oslo",
+    "ToAirport": "ARN",
+    "ToAirportName": "Stockholm",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309010840"
+  },
+  {
+    "FlightId": "SK864",
+    "FromAirport": "OSL",
+    "FromAirportName": "Oslo",
+    "ToAirport": "ARN",
+    "ToAirportName": "Stockholm",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309010925"
+  },
+  {
+    "FlightId": "SK484",
+    "FromAirport": "OSL",
+    "FromAirportName": "Oslo",
+    "ToAirport": "ARN",
+    "ToAirportName": "Stockholm",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309011105"
+  },
+  {
+    "FlightId": "DY812",
+    "FromAirport": "OSL",
+    "FromAirportName": "Oslo",
+    "ToAirport": "ARN",
+    "ToAirportName": "Stockholm",
+    "AirlineName": "Norwegian",
+    "ScheduledTimeFull": "202309011120"
+  },
+  {
+    "FlightId": "SK868",
+    "FromAirport": "OSL",
+    "FromAirportName": "Oslo",
+    "ToAirport": "ARN",
+    "ToAirportName": "Stockholm",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309011245"
+  },
+  {
+    "FlightId": "SK486",
+    "FromAirport": "OSL",
+    "FromAirportName": "Oslo",
+    "ToAirport": "ARN",
+    "ToAirportName": "Stockholm",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309011425"
+  },
+  {
+    "FlightId": "DY816",
+    "FromAirport": "OSL",
+    "FromAirportName": "Oslo",
+    "ToAirport": "ARN",
+    "ToAirportName": "Stockholm",
+    "AirlineName": "Norwegian",
+    "ScheduledTimeFull": "202309011500"
+  },
+  {
+    "FlightId": "SK882",
+    "FromAirport": "OSL",
+    "FromAirportName": "Oslo",
+    "ToAirport": "ARN",
+    "ToAirportName": "Stockholm",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309011605"
+  },
+  {
+    "FlightId": "D84116",
+    "FromAirport": "OSL",
+    "FromAirportName": "Oslo",
+    "ToAirport": "ARN",
+    "ToAirportName": "Stockholm",
+    "AirlineName": "Norwegian",
+    "ScheduledTimeFull": "202309011630"
+  },
+  {
+    "FlightId": "SK488",
+    "FromAirport": "OSL",
+    "FromAirportName": "Oslo",
+    "ToAirport": "ARN",
+    "ToAirportName": "Stockholm",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309011750"
+  },
+  {
+    "FlightId": "DY822",
+    "FromAirport": "OSL",
+    "FromAirportName": "Oslo",
+    "ToAirport": "ARN",
+    "ToAirportName": "Stockholm",
+    "AirlineName": "Norwegian",
+    "ScheduledTimeFull": "202309011800"
+  },
+  {
+    "FlightId": "SK1484",
+    "FromAirport": "OSL",
+    "FromAirportName": "Oslo",
+    "ToAirport": "ARN",
+    "ToAirportName": "Stockholm",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309011830"
+  },
+  {
+    "FlightId": "D84122",
+    "FromAirport": "OSL",
+    "FromAirportName": "Oslo",
+    "ToAirport": "ARN",
+    "ToAirportName": "Stockholm",
+    "AirlineName": "Norwegian",
+    "ScheduledTimeFull": "202309011930"
+  },
+  {
+    "FlightId": "SK886",
+    "FromAirport": "OSL",
+    "FromAirportName": "Oslo",
+    "ToAirport": "ARN",
+    "ToAirportName": "Stockholm",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309011940"
+  },
+  {
+    "FlightId": "ET715",
+    "FromAirport": "OSL",
+    "FromAirportName": "Oslo",
+    "ToAirport": "ARN",
+    "ToAirportName": "Stockholm",
+    "AirlineName": "Ethiopian Airlines",
+    "ScheduledTimeFull": "202309011945"
+  },
+  {
+    "FlightId": "SK1488",
+    "FromAirport": "OSL",
+    "FromAirportName": "Oslo",
+    "ToAirport": "ARN",
+    "ToAirportName": "Stockholm",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309012130"
+  },
+  {
+    "FlightId": "SK1461",
+    "FromAirport": "OSL",
+    "FromAirportName": "Oslo",
+    "ToAirport": "CPH",
+    "ToAirportName": "Copenhagen",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309010600"
+  },
+  {
+    "FlightId": "SK1463",
+    "FromAirport": "OSL",
+    "FromAirportName": "Oslo",
+    "ToAirport": "CPH",
+    "ToAirportName": "Copenhagen",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309010710"
+  },
+  {
+    "FlightId": "DY932",
+    "FromAirport": "OSL",
+    "FromAirportName": "Oslo",
+    "ToAirport": "CPH",
+    "ToAirportName": "Copenhagen",
+    "AirlineName": "Norwegian",
+    "ScheduledTimeFull": "202309010740"
+  },
+  {
+    "FlightId": "SK451",
+    "FromAirport": "OSL",
+    "FromAirportName": "Oslo",
+    "ToAirport": "CPH",
+    "ToAirportName": "Copenhagen",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309010810"
+  },
+  {
+    "FlightId": "D83221",
+    "FromAirport": "OSL",
+    "FromAirportName": "Oslo",
+    "ToAirport": "CPH",
+    "ToAirportName": "Copenhagen",
+    "AirlineName": "Norwegian",
+    "ScheduledTimeFull": "202309010905"
+  },
+  {
+    "FlightId": "SK455",
+    "FromAirport": "OSL",
+    "FromAirportName": "Oslo",
+    "ToAirport": "CPH",
+    "ToAirportName": "Copenhagen",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309010915"
+  },
+  {
+    "FlightId": "SK1455",
+    "FromAirport": "OSL",
+    "FromAirportName": "Oslo",
+    "ToAirport": "CPH",
+    "ToAirportName": "Copenhagen",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309010955"
+  },
+  {
+    "FlightId": "SK1467",
+    "FromAirport": "OSL",
+    "FromAirportName": "Oslo",
+    "ToAirport": "CPH",
+    "ToAirportName": "Copenhagen",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309011100"
+  },
+  {
+    "FlightId": "SK1469",
+    "FromAirport": "OSL",
+    "FromAirportName": "Oslo",
+    "ToAirport": "CPH",
+    "ToAirportName": "Copenhagen",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309011335"
+  },
+  {
+    "FlightId": "DY940",
+    "FromAirport": "OSL",
+    "FromAirportName": "Oslo",
+    "ToAirport": "CPH",
+    "ToAirportName": "Copenhagen",
+    "AirlineName": "Norwegian",
+    "ScheduledTimeFull": "202309011350"
+  },
+  {
+    "FlightId": "SK1471",
+    "FromAirport": "OSL",
+    "FromAirportName": "Oslo",
+    "ToAirport": "CPH",
+    "ToAirportName": "Copenhagen",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309011510"
+  },
+  {
+    "FlightId": "D83229",
+    "FromAirport": "OSL",
+    "FromAirportName": "Oslo",
+    "ToAirport": "CPH",
+    "ToAirportName": "Copenhagen",
+    "AirlineName": "Norwegian",
+    "ScheduledTimeFull": "202309011555"
+  },
+  {
+    "FlightId": "SK459",
+    "FromAirport": "OSL",
+    "FromAirportName": "Oslo",
+    "ToAirport": "CPH",
+    "ToAirportName": "Copenhagen",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309011610"
+  },
+  {
+    "FlightId": "SK1465",
+    "FromAirport": "OSL",
+    "FromAirportName": "Oslo",
+    "ToAirport": "CPH",
+    "ToAirportName": "Copenhagen",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309011715"
+  },
+  {
+    "FlightId": "DY948",
+    "FromAirport": "OSL",
+    "FromAirportName": "Oslo",
+    "ToAirport": "CPH",
+    "ToAirportName": "Copenhagen",
+    "AirlineName": "Norwegian",
+    "ScheduledTimeFull": "202309011725"
+  },
+  {
+    "FlightId": "SK461",
+    "FromAirport": "OSL",
+    "FromAirportName": "Oslo",
+    "ToAirport": "CPH",
+    "ToAirportName": "Copenhagen",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309011815"
+  },
+  {
+    "FlightId": "D83231",
+    "FromAirport": "OSL",
+    "FromAirportName": "Oslo",
+    "ToAirport": "CPH",
+    "ToAirportName": "Copenhagen",
+    "AirlineName": "Norwegian",
+    "ScheduledTimeFull": "202309011840"
+  },
+  {
+    "FlightId": "SK463",
+    "FromAirport": "OSL",
+    "FromAirportName": "Oslo",
+    "ToAirport": "CPH",
+    "ToAirportName": "Copenhagen",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309011955"
+  },
+  {
+    "FlightId": "SK1475",
+    "FromAirport": "OSL",
+    "FromAirportName": "Oslo",
+    "ToAirport": "CPH",
+    "ToAirportName": "Copenhagen",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309012055"
+  },
+  {
+    "FlightId": "D83235",
+    "FromAirport": "OSL",
+    "FromAirportName": "Oslo",
+    "ToAirport": "CPH",
+    "ToAirportName": "Copenhagen",
+    "AirlineName": "Norwegian",
+    "ScheduledTimeFull": "202309012210"
+  },
+  {
+    "FlightId": "SK1461",
+    "FromAirport": "OSL",
+    "FromAirportName": "Oslo",
+    "ToAirport": "CPH",
+    "ToAirportName": "Copenhagen",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309020600"
+  },
+  {
+    "FlightId": "SK1463",
+    "FromAirport": "OSL",
+    "FromAirportName": "Oslo",
+    "ToAirport": "CPH",
+    "ToAirportName": "Copenhagen",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309020710"
+  },
+  {
+    "FlightId": "DY932",
+    "FromAirport": "OSL",
+    "FromAirportName": "Oslo",
+    "ToAirport": "CPH",
+    "ToAirportName": "Copenhagen",
+    "AirlineName": "Norwegian",
+    "ScheduledTimeFull": "202309020740"
+  },
+  {
+    "FlightId": "SK1455",
+    "FromAirport": "OSL",
+    "FromAirportName": "Oslo",
+    "ToAirport": "CPH",
+    "ToAirportName": "Copenhagen",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309020955"
+  },
+  {
+    "FlightId": "DY940",
+    "FromAirport": "OSL",
+    "FromAirportName": "Oslo",
+    "ToAirport": "CPH",
+    "ToAirportName": "Copenhagen",
+    "AirlineName": "Norwegian",
+    "ScheduledTimeFull": "202309021305"
+  },
+  {
+    "FlightId": "SK1469",
+    "FromAirport": "OSL",
+    "FromAirportName": "Oslo",
+    "ToAirport": "CPH",
+    "ToAirportName": "Copenhagen",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309021335"
+  },
+  {
+    "FlightId": "SK459",
+    "FromAirport": "OSL",
+    "FromAirportName": "Oslo",
+    "ToAirport": "CPH",
+    "ToAirportName": "Copenhagen",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309021625"
+  },
+  {
+    "FlightId": "DY948",
+    "FromAirport": "OSL",
+    "FromAirportName": "Oslo",
+    "ToAirport": "CPH",
+    "ToAirportName": "Copenhagen",
+    "AirlineName": "Norwegian",
+    "ScheduledTimeFull": "202309021655"
+  },
+  {
+    "FlightId": "SK1477",
+    "FromAirport": "OSL",
+    "FromAirportName": "Oslo",
+    "ToAirport": "CPH",
+    "ToAirportName": "Copenhagen",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309021855"
+  },
+  {
+    "FlightId": "SK1475",
+    "FromAirport": "OSL",
+    "FromAirportName": "Oslo",
+    "ToAirport": "CPH",
+    "ToAirportName": "Copenhagen",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309022055"
+  },
+  {
+    "FlightId": "DY804",
+    "FromAirport": "OSL",
+    "FromAirportName": "Oslo",
+    "ToAirport": "ARN",
+    "ToAirportName": "Stockholm",
+    "AirlineName": "Norwegian",
+    "ScheduledTimeFull": "202309020740"
+  },
+  {
+    "FlightId": "SK482",
+    "FromAirport": "OSL",
+    "FromAirportName": "Oslo",
+    "ToAirport": "ARN",
+    "ToAirportName": "Stockholm",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309020740"
+  },
+  {
+    "FlightId": "SK864",
+    "FromAirport": "OSL",
+    "FromAirportName": "Oslo",
+    "ToAirport": "ARN",
+    "ToAirportName": "Stockholm",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309020940"
+  },
+  {
+    "FlightId": "DY812",
+    "FromAirport": "OSL",
+    "FromAirportName": "Oslo",
+    "ToAirport": "ARN",
+    "ToAirportName": "Stockholm",
+    "AirlineName": "Norwegian",
+    "ScheduledTimeFull": "202309021120"
+  },
+  {
+    "FlightId": "SK486",
+    "FromAirport": "OSL",
+    "FromAirportName": "Oslo",
+    "ToAirport": "ARN",
+    "ToAirportName": "Stockholm",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309021445"
+  },
+  {
+    "FlightId": "SK488",
+    "FromAirport": "OSL",
+    "FromAirportName": "Oslo",
+    "ToAirport": "ARN",
+    "ToAirportName": "Stockholm",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309021745"
+  },
+  {
+    "FlightId": "SK886",
+    "FromAirport": "OSL",
+    "FromAirportName": "Oslo",
+    "ToAirport": "ARN",
+    "ToAirportName": "Stockholm",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309021920"
+  },
+  {
+    "FlightId": "ET715",
+    "FromAirport": "OSL",
+    "FromAirportName": "Oslo",
+    "ToAirport": "ARN",
+    "ToAirportName": "Stockholm",
+    "AirlineName": "Ethiopian Airlines",
+    "ScheduledTimeFull": "202309021945"
+  },
+  {
+    "FlightId": "SK482",
+    "FromAirport": "OSL",
+    "FromAirportName": "Oslo",
+    "ToAirport": "ARN",
+    "ToAirportName": "Stockholm",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309030715"
+  },
+  {
+    "FlightId": "DY804",
+    "FromAirport": "OSL",
+    "FromAirportName": "Oslo",
+    "ToAirport": "ARN",
+    "ToAirportName": "Stockholm",
+    "AirlineName": "Norwegian",
+    "ScheduledTimeFull": "202309030740"
+  },
+  {
+    "FlightId": "DY806",
+    "FromAirport": "OSL",
+    "FromAirportName": "Oslo",
+    "ToAirport": "ARN",
+    "ToAirportName": "Stockholm",
+    "AirlineName": "Norwegian",
+    "ScheduledTimeFull": "202309030930"
+  },
+  {
+    "FlightId": "SK484",
+    "FromAirport": "OSL",
+    "FromAirportName": "Oslo",
+    "ToAirport": "ARN",
+    "ToAirportName": "Stockholm",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309031040"
+  },
+  {
+    "FlightId": "DY814",
+    "FromAirport": "OSL",
+    "FromAirportName": "Oslo",
+    "ToAirport": "ARN",
+    "ToAirportName": "Stockholm",
+    "AirlineName": "Norwegian",
+    "ScheduledTimeFull": "202309031400"
+  },
+  {
+    "FlightId": "SK486",
+    "FromAirport": "OSL",
+    "FromAirportName": "Oslo",
+    "ToAirport": "ARN",
+    "ToAirportName": "Stockholm",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309031400"
+  },
+  {
+    "FlightId": "DY822",
+    "FromAirport": "OSL",
+    "FromAirportName": "Oslo",
+    "ToAirport": "ARN",
+    "ToAirportName": "Stockholm",
+    "AirlineName": "Norwegian",
+    "ScheduledTimeFull": "202309031700"
+  },
+  {
+    "FlightId": "SK488",
+    "FromAirport": "OSL",
+    "FromAirportName": "Oslo",
+    "ToAirport": "ARN",
+    "ToAirportName": "Stockholm",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309031720"
+  },
+  {
+    "FlightId": "SK886",
+    "FromAirport": "OSL",
+    "FromAirportName": "Oslo",
+    "ToAirport": "ARN",
+    "ToAirportName": "Stockholm",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309031925"
+  },
+  {
+    "FlightId": "ET715",
+    "FromAirport": "OSL",
+    "FromAirportName": "Oslo",
+    "ToAirport": "ARN",
+    "ToAirportName": "Stockholm",
+    "AirlineName": "Ethiopian Airlines",
+    "ScheduledTimeFull": "202309031945"
+  },
+  {
+    "FlightId": "DY826",
+    "FromAirport": "OSL",
+    "FromAirportName": "Oslo",
+    "ToAirport": "ARN",
+    "ToAirportName": "Stockholm",
+    "AirlineName": "Norwegian",
+    "ScheduledTimeFull": "202309032000"
+  },
+  {
+    "FlightId": "SK492",
+    "FromAirport": "OSL",
+    "FromAirportName": "Oslo",
+    "ToAirport": "ARN",
+    "ToAirportName": "Stockholm",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309032040"
+  },
+  {
+    "FlightId": "D84120",
+    "FromAirport": "OSL",
+    "FromAirportName": "Oslo",
+    "ToAirport": "ARN",
+    "ToAirportName": "Stockholm",
+    "AirlineName": "Norwegian",
+    "ScheduledTimeFull": "202309032040"
+  },
+  {
+    "FlightId": "DY828",
+    "FromAirport": "OSL",
+    "FromAirportName": "Oslo",
+    "ToAirport": "ARN",
+    "ToAirportName": "Stockholm",
+    "AirlineName": "Norwegian",
+    "ScheduledTimeFull": "202309032100"
+  },
+  {
+    "FlightId": "SK1488",
+    "FromAirport": "OSL",
+    "FromAirportName": "Oslo",
+    "ToAirport": "ARN",
+    "ToAirportName": "Stockholm",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309032210"
+  },
+  {
+    "FlightId": "DY932",
+    "FromAirport": "OSL",
+    "FromAirportName": "Oslo",
+    "ToAirport": "CPH",
+    "ToAirportName": "Copenhagen",
+    "AirlineName": "Norwegian",
+    "ScheduledTimeFull": "202309030740"
+  },
+  {
+    "FlightId": "DY936",
+    "FromAirport": "OSL",
+    "FromAirportName": "Oslo",
+    "ToAirport": "CPH",
+    "ToAirportName": "Copenhagen",
+    "AirlineName": "Norwegian",
+    "ScheduledTimeFull": "202309030905"
+  },
+  {
+    "FlightId": "SK1455",
+    "FromAirport": "OSL",
+    "FromAirportName": "Oslo",
+    "ToAirport": "CPH",
+    "ToAirportName": "Copenhagen",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309030955"
+  },
+  {
+    "FlightId": "SK1469",
+    "FromAirport": "OSL",
+    "FromAirportName": "Oslo",
+    "ToAirport": "CPH",
+    "ToAirportName": "Copenhagen",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309031335"
+  },
+  {
+    "FlightId": "DY940",
+    "FromAirport": "OSL",
+    "FromAirportName": "Oslo",
+    "ToAirport": "CPH",
+    "ToAirportName": "Copenhagen",
+    "AirlineName": "Norwegian",
+    "ScheduledTimeFull": "202309031350"
+  },
+  {
+    "FlightId": "D83229",
+    "FromAirport": "OSL",
+    "FromAirportName": "Oslo",
+    "ToAirport": "CPH",
+    "ToAirportName": "Copenhagen",
+    "AirlineName": "Norwegian",
+    "ScheduledTimeFull": "202309031415"
+  },
+  {
+    "FlightId": "SK1467",
+    "FromAirport": "OSL",
+    "FromAirportName": "Oslo",
+    "ToAirport": "CPH",
+    "ToAirportName": "Copenhagen",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309031520"
+  },
+  {
+    "FlightId": "SK459",
+    "FromAirport": "OSL",
+    "FromAirportName": "Oslo",
+    "ToAirport": "CPH",
+    "ToAirportName": "Copenhagen",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309031610"
+  },
+  {
+    "FlightId": "SK1465",
+    "FromAirport": "OSL",
+    "FromAirportName": "Oslo",
+    "ToAirport": "CPH",
+    "ToAirportName": "Copenhagen",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309031715"
+  },
+  {
+    "FlightId": "DY948",
+    "FromAirport": "OSL",
+    "FromAirportName": "Oslo",
+    "ToAirport": "CPH",
+    "ToAirportName": "Copenhagen",
+    "AirlineName": "Norwegian",
+    "ScheduledTimeFull": "202309031725"
+  },
+  {
+    "FlightId": "SK461",
+    "FromAirport": "OSL",
+    "FromAirportName": "Oslo",
+    "ToAirport": "CPH",
+    "ToAirportName": "Copenhagen",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309031805"
+  },
+  {
+    "FlightId": "D83231",
+    "FromAirport": "OSL",
+    "FromAirportName": "Oslo",
+    "ToAirport": "CPH",
+    "ToAirportName": "Copenhagen",
+    "AirlineName": "Norwegian",
+    "ScheduledTimeFull": "202309031840"
+  },
+  {
+    "FlightId": "SK463",
+    "FromAirport": "OSL",
+    "FromAirportName": "Oslo",
+    "ToAirport": "CPH",
+    "ToAirportName": "Copenhagen",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309031955"
+  },
+  {
+    "FlightId": "D83233",
+    "FromAirport": "OSL",
+    "FromAirportName": "Oslo",
+    "ToAirport": "CPH",
+    "ToAirportName": "Copenhagen",
+    "AirlineName": "Norwegian",
+    "ScheduledTimeFull": "202309032030"
+  },
+  {
+    "FlightId": "SK465",
+    "FromAirport": "OSL",
+    "FromAirportName": "Oslo",
+    "ToAirport": "CPH",
+    "ToAirportName": "Copenhagen",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309032100"
+  },
+  {
+    "FlightId": "D83235",
+    "FromAirport": "OSL",
+    "FromAirportName": "Oslo",
+    "ToAirport": "CPH",
+    "ToAirportName": "Copenhagen",
+    "AirlineName": "Norwegian",
+    "ScheduledTimeFull": "202309032210"
+  },
+  {
+    "FlightId": "SK1475",
+    "FromAirport": "OSL",
+    "FromAirportName": "Oslo",
+    "ToAirport": "CPH",
+    "ToAirportName": "Copenhagen",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309032210"
+  },
+  {
+    "FlightId": "SK1461",
+    "FromAirport": "OSL",
+    "FromAirportName": "Oslo",
+    "ToAirport": "CPH",
+    "ToAirportName": "Copenhagen",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309040600"
+  },
+  {
+    "FlightId": "SK1463",
+    "FromAirport": "OSL",
+    "FromAirportName": "Oslo",
+    "ToAirport": "CPH",
+    "ToAirportName": "Copenhagen",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309040710"
+  },
+  {
+    "FlightId": "DY932",
+    "FromAirport": "OSL",
+    "FromAirportName": "Oslo",
+    "ToAirport": "CPH",
+    "ToAirportName": "Copenhagen",
+    "AirlineName": "Norwegian",
+    "ScheduledTimeFull": "202309040740"
+  },
+  {
+    "FlightId": "SK451",
+    "FromAirport": "OSL",
+    "FromAirportName": "Oslo",
+    "ToAirport": "CPH",
+    "ToAirportName": "Copenhagen",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309040810"
+  },
+  {
+    "FlightId": "D83221",
+    "FromAirport": "OSL",
+    "FromAirportName": "Oslo",
+    "ToAirport": "CPH",
+    "ToAirportName": "Copenhagen",
+    "AirlineName": "Norwegian",
+    "ScheduledTimeFull": "202309040905"
+  },
+  {
+    "FlightId": "SK455",
+    "FromAirport": "OSL",
+    "FromAirportName": "Oslo",
+    "ToAirport": "CPH",
+    "ToAirportName": "Copenhagen",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309040915"
+  },
+  {
+    "FlightId": "SK1455",
+    "FromAirport": "OSL",
+    "FromAirportName": "Oslo",
+    "ToAirport": "CPH",
+    "ToAirportName": "Copenhagen",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309040955"
+  },
+  {
+    "FlightId": "SK1467",
+    "FromAirport": "OSL",
+    "FromAirportName": "Oslo",
+    "ToAirport": "CPH",
+    "ToAirportName": "Copenhagen",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309041115"
+  },
+  {
+    "FlightId": "D83225",
+    "FromAirport": "OSL",
+    "FromAirportName": "Oslo",
+    "ToAirport": "CPH",
+    "ToAirportName": "Copenhagen",
+    "AirlineName": "Norwegian",
+    "ScheduledTimeFull": "202309041230"
+  },
+  {
+    "FlightId": "DY940",
+    "FromAirport": "OSL",
+    "FromAirportName": "Oslo",
+    "ToAirport": "CPH",
+    "ToAirportName": "Copenhagen",
+    "AirlineName": "Norwegian",
+    "ScheduledTimeFull": "202309041350"
+  },
+  {
+    "FlightId": "SK1471",
+    "FromAirport": "OSL",
+    "FromAirportName": "Oslo",
+    "ToAirport": "CPH",
+    "ToAirportName": "Copenhagen",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309041510"
+  },
+  {
+    "FlightId": "D83229",
+    "FromAirport": "OSL",
+    "FromAirportName": "Oslo",
+    "ToAirport": "CPH",
+    "ToAirportName": "Copenhagen",
+    "AirlineName": "Norwegian",
+    "ScheduledTimeFull": "202309041555"
+  },
+  {
+    "FlightId": "SK459",
+    "FromAirport": "OSL",
+    "FromAirportName": "Oslo",
+    "ToAirport": "CPH",
+    "ToAirportName": "Copenhagen",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309041610"
+  },
+  {
+    "FlightId": "SK1465",
+    "FromAirport": "OSL",
+    "FromAirportName": "Oslo",
+    "ToAirport": "CPH",
+    "ToAirportName": "Copenhagen",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309041715"
+  },
+  {
+    "FlightId": "DY948",
+    "FromAirport": "OSL",
+    "FromAirportName": "Oslo",
+    "ToAirport": "CPH",
+    "ToAirportName": "Copenhagen",
+    "AirlineName": "Norwegian",
+    "ScheduledTimeFull": "202309041725"
+  },
+  {
+    "FlightId": "D83231",
+    "FromAirport": "OSL",
+    "FromAirportName": "Oslo",
+    "ToAirport": "CPH",
+    "ToAirportName": "Copenhagen",
+    "AirlineName": "Norwegian",
+    "ScheduledTimeFull": "202309041840"
+  },
+  {
+    "FlightId": "SK1477",
+    "FromAirport": "OSL",
+    "FromAirportName": "Oslo",
+    "ToAirport": "CPH",
+    "ToAirportName": "Copenhagen",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309041855"
+  },
+  {
+    "FlightId": "SK463",
+    "FromAirport": "OSL",
+    "FromAirportName": "Oslo",
+    "ToAirport": "CPH",
+    "ToAirportName": "Copenhagen",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309041955"
+  },
+  {
+    "FlightId": "SK1475",
+    "FromAirport": "OSL",
+    "FromAirportName": "Oslo",
+    "ToAirport": "CPH",
+    "ToAirportName": "Copenhagen",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309042055"
+  },
+  {
+    "FlightId": "D83235",
+    "FromAirport": "OSL",
+    "FromAirportName": "Oslo",
+    "ToAirport": "CPH",
+    "ToAirportName": "Copenhagen",
+    "AirlineName": "Norwegian",
+    "ScheduledTimeFull": "202309042210"
+  },
+  {
+    "FlightId": "SK844",
+    "FromAirport": "OSL",
+    "FromAirportName": "Oslo",
+    "ToAirport": "ARN",
+    "ToAirportName": "Stockholm",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309040655"
+  },
+  {
+    "FlightId": "DY802",
+    "FromAirport": "OSL",
+    "FromAirportName": "Oslo",
+    "ToAirport": "ARN",
+    "ToAirportName": "Stockholm",
+    "AirlineName": "Norwegian",
+    "ScheduledTimeFull": "202309040700"
+  },
+  {
+    "FlightId": "DY804",
+    "FromAirport": "OSL",
+    "FromAirportName": "Oslo",
+    "ToAirport": "ARN",
+    "ToAirportName": "Stockholm",
+    "AirlineName": "Norwegian",
+    "ScheduledTimeFull": "202309040740"
+  },
+  {
+    "FlightId": "SK482",
+    "FromAirport": "OSL",
+    "FromAirportName": "Oslo",
+    "ToAirport": "ARN",
+    "ToAirportName": "Stockholm",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309040740"
+  },
+  {
+    "FlightId": "D84104",
+    "FromAirport": "OSL",
+    "FromAirportName": "Oslo",
+    "ToAirport": "ARN",
+    "ToAirportName": "Stockholm",
+    "AirlineName": "Norwegian",
+    "ScheduledTimeFull": "202309040830"
+  },
+  {
+    "FlightId": "SK480",
+    "FromAirport": "OSL",
+    "FromAirportName": "Oslo",
+    "ToAirport": "ARN",
+    "ToAirportName": "Stockholm",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309040840"
+  },
+  {
+    "FlightId": "SK864",
+    "FromAirport": "OSL",
+    "FromAirportName": "Oslo",
+    "ToAirport": "ARN",
+    "ToAirportName": "Stockholm",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309040925"
+  },
+  {
+    "FlightId": "SK484",
+    "FromAirport": "OSL",
+    "FromAirportName": "Oslo",
+    "ToAirport": "ARN",
+    "ToAirportName": "Stockholm",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309041105"
+  },
+  {
+    "FlightId": "DY812",
+    "FromAirport": "OSL",
+    "FromAirportName": "Oslo",
+    "ToAirport": "ARN",
+    "ToAirportName": "Stockholm",
+    "AirlineName": "Norwegian",
+    "ScheduledTimeFull": "202309041120"
+  },
+  {
+    "FlightId": "SK868",
+    "FromAirport": "OSL",
+    "FromAirportName": "Oslo",
+    "ToAirport": "ARN",
+    "ToAirportName": "Stockholm",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309041245"
+  },
+  {
+    "FlightId": "SK496",
+    "FromAirport": "OSL",
+    "FromAirportName": "Oslo",
+    "ToAirport": "ARN",
+    "ToAirportName": "Stockholm",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309041355"
+  },
+  {
+    "FlightId": "DY816",
+    "FromAirport": "OSL",
+    "FromAirportName": "Oslo",
+    "ToAirport": "ARN",
+    "ToAirportName": "Stockholm",
+    "AirlineName": "Norwegian",
+    "ScheduledTimeFull": "202309041500"
+  },
+  {
+    "FlightId": "SK882",
+    "FromAirport": "OSL",
+    "FromAirportName": "Oslo",
+    "ToAirport": "ARN",
+    "ToAirportName": "Stockholm",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309041605"
+  },
+  {
+    "FlightId": "D84116",
+    "FromAirport": "OSL",
+    "FromAirportName": "Oslo",
+    "ToAirport": "ARN",
+    "ToAirportName": "Stockholm",
+    "AirlineName": "Norwegian",
+    "ScheduledTimeFull": "202309041630"
+  },
+  {
+    "FlightId": "SK488",
+    "FromAirport": "OSL",
+    "FromAirportName": "Oslo",
+    "ToAirport": "ARN",
+    "ToAirportName": "Stockholm",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309041750"
+  },
+  {
+    "FlightId": "DY822",
+    "FromAirport": "OSL",
+    "FromAirportName": "Oslo",
+    "ToAirport": "ARN",
+    "ToAirportName": "Stockholm",
+    "AirlineName": "Norwegian",
+    "ScheduledTimeFull": "202309041800"
+  },
+  {
+    "FlightId": "D84122",
+    "FromAirport": "OSL",
+    "FromAirportName": "Oslo",
+    "ToAirport": "ARN",
+    "ToAirportName": "Stockholm",
+    "AirlineName": "Norwegian",
+    "ScheduledTimeFull": "202309041930"
+  },
+  {
+    "FlightId": "SK886",
+    "FromAirport": "OSL",
+    "FromAirportName": "Oslo",
+    "ToAirport": "ARN",
+    "ToAirportName": "Stockholm",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309041940"
+  },
+  {
+    "FlightId": "ET715",
+    "FromAirport": "OSL",
+    "FromAirportName": "Oslo",
+    "ToAirport": "ARN",
+    "ToAirportName": "Stockholm",
+    "AirlineName": "Ethiopian Airlines",
+    "ScheduledTimeFull": "202309041945"
+  },
+  {
+    "FlightId": "SK485",
+    "FromAirport": "ARN",
+    "FromAirportName": "Stockholm",
+    "ToAirport": "OSL",
+    "ToAirportName": "Oslo",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309010800"
+  },
+  {
+    "FlightId": "D84103",
+    "FromAirport": "ARN",
+    "FromAirportName": "Stockholm",
+    "ToAirport": "OSL",
+    "ToAirportName": "Oslo",
+    "AirlineName": "Norwegian",
+    "ScheduledTimeFull": "202309010800"
+  },
+  {
+    "FlightId": "ET714",
+    "FromAirport": "ARN",
+    "FromAirportName": "Stockholm",
+    "ToAirport": "OSL",
+    "ToAirportName": "Oslo",
+    "AirlineName": "Ethiopian Airlines",
+    "ScheduledTimeFull": "202309010845"
+  },
+  {
+    "FlightId": "SK843",
+    "FromAirport": "ARN",
+    "FromAirportName": "Stockholm",
+    "ToAirport": "OSL",
+    "ToAirportName": "Oslo",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309010845"
+  },
+  {
+    "FlightId": "DY805",
+    "FromAirport": "ARN",
+    "FromAirportName": "Stockholm",
+    "ToAirport": "OSL",
+    "ToAirportName": "Oslo",
+    "AirlineName": "Norwegian",
+    "ScheduledTimeFull": "202309011010"
+  },
+  {
+    "FlightId": "SK483",
+    "FromAirport": "ARN",
+    "FromAirportName": "Stockholm",
+    "ToAirport": "OSL",
+    "ToAirportName": "Oslo",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309011025"
+  },
+  {
+    "FlightId": "SK849",
+    "FromAirport": "ARN",
+    "FromAirportName": "Stockholm",
+    "ToAirport": "OSL",
+    "ToAirportName": "Oslo",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309011205"
+  },
+  {
+    "FlightId": "SK489",
+    "FromAirport": "ARN",
+    "FromAirportName": "Stockholm",
+    "ToAirport": "OSL",
+    "ToAirportName": "Oslo",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309011345"
+  },
+  {
+    "FlightId": "DY813",
+    "FromAirport": "ARN",
+    "FromAirportName": "Stockholm",
+    "ToAirport": "OSL",
+    "ToAirportName": "Oslo",
+    "AirlineName": "Norwegian",
+    "ScheduledTimeFull": "202309011400"
+  },
+  {
+    "FlightId": "SK867",
+    "FromAirport": "ARN",
+    "FromAirportName": "Stockholm",
+    "ToAirport": "OSL",
+    "ToAirportName": "Oslo",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309011525"
+  },
+  {
+    "FlightId": "D84115",
+    "FromAirport": "ARN",
+    "FromAirportName": "Stockholm",
+    "ToAirport": "OSL",
+    "ToAirportName": "Oslo",
+    "AirlineName": "Norwegian",
+    "ScheduledTimeFull": "202309011600"
+  },
+  {
+    "FlightId": "SK491",
+    "FromAirport": "ARN",
+    "FromAirportName": "Stockholm",
+    "ToAirport": "OSL",
+    "ToAirportName": "Oslo",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309011705"
+  },
+  {
+    "FlightId": "DY817",
+    "FromAirport": "ARN",
+    "FromAirportName": "Stockholm",
+    "ToAirport": "OSL",
+    "ToAirportName": "Oslo",
+    "AirlineName": "Norwegian",
+    "ScheduledTimeFull": "202309011730"
+  },
+  {
+    "FlightId": "SK499",
+    "FromAirport": "ARN",
+    "FromAirportName": "Stockholm",
+    "ToAirport": "OSL",
+    "ToAirportName": "Oslo",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309011745"
+  },
+  {
+    "FlightId": "D84121",
+    "FromAirport": "ARN",
+    "FromAirportName": "Stockholm",
+    "ToAirport": "OSL",
+    "ToAirportName": "Oslo",
+    "AirlineName": "Norwegian",
+    "ScheduledTimeFull": "202309011900"
+  },
+  {
+    "FlightId": "DY823",
+    "FromAirport": "ARN",
+    "FromAirportName": "Stockholm",
+    "ToAirport": "OSL",
+    "ToAirportName": "Oslo",
+    "AirlineName": "Norwegian",
+    "ScheduledTimeFull": "202309012030"
+  },
+  {
+    "FlightId": "SK493",
+    "FromAirport": "ARN",
+    "FromAirportName": "Stockholm",
+    "ToAirport": "OSL",
+    "ToAirportName": "Oslo",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309012040"
+  },
+  {
+    "FlightId": "SK1483",
+    "FromAirport": "ARN",
+    "FromAirportName": "Stockholm",
+    "ToAirport": "OSL",
+    "ToAirportName": "Oslo",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309012110"
+  },
+  {
+    "FlightId": "SK897",
+    "FromAirport": "ARN",
+    "FromAirportName": "Stockholm",
+    "ToAirport": "OSL",
+    "ToAirportName": "Oslo",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309012215"
+  },
+  {
+    "FlightId": "SK1474",
+    "FromAirport": "CPH",
+    "FromAirportName": "Copenhagen",
+    "ToAirport": "OSL",
+    "ToAirportName": "Oslo",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309010010"
+  },
+  {
+    "FlightId": "D83220",
+    "FromAirport": "CPH",
+    "FromAirportName": "Copenhagen",
+    "ToAirport": "OSL",
+    "ToAirportName": "Oslo",
+    "AirlineName": "Norwegian",
+    "ScheduledTimeFull": "202309010820"
+  },
+  {
+    "FlightId": "SK454",
+    "FromAirport": "CPH",
+    "FromAirportName": "Copenhagen",
+    "ToAirport": "OSL",
+    "ToAirportName": "Oslo",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309010830"
+  },
+  {
+    "FlightId": "SK1462",
+    "FromAirport": "CPH",
+    "FromAirportName": "Copenhagen",
+    "ToAirport": "OSL",
+    "ToAirportName": "Oslo",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309010910"
+  },
+  {
+    "FlightId": "SK1464",
+    "FromAirport": "CPH",
+    "FromAirportName": "Copenhagen",
+    "ToAirport": "OSL",
+    "ToAirportName": "Oslo",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309011020"
+  },
+  {
+    "FlightId": "DY933",
+    "FromAirport": "CPH",
+    "FromAirportName": "Copenhagen",
+    "ToAirport": "OSL",
+    "ToAirportName": "Oslo",
+    "AirlineName": "Norwegian",
+    "ScheduledTimeFull": "202309011030"
+  },
+  {
+    "FlightId": "SK452",
+    "FromAirport": "CPH",
+    "FromAirportName": "Copenhagen",
+    "ToAirport": "OSL",
+    "ToAirportName": "Oslo",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309011110"
+  },
+  {
+    "FlightId": "SK1458",
+    "FromAirport": "CPH",
+    "FromAirportName": "Copenhagen",
+    "ToAirport": "OSL",
+    "ToAirportName": "Oslo",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309011255"
+  },
+  {
+    "FlightId": "SK1456",
+    "FromAirport": "CPH",
+    "FromAirportName": "Copenhagen",
+    "ToAirport": "OSL",
+    "ToAirportName": "Oslo",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309011340"
+  },
+  {
+    "FlightId": "D83228",
+    "FromAirport": "CPH",
+    "FromAirportName": "Copenhagen",
+    "ToAirport": "OSL",
+    "ToAirportName": "Oslo",
+    "AirlineName": "Norwegian",
+    "ScheduledTimeFull": "202309011525"
+  },
+  {
+    "FlightId": "SK458",
+    "FromAirport": "CPH",
+    "FromAirportName": "Copenhagen",
+    "ToAirport": "OSL",
+    "ToAirportName": "Oslo",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309011530"
+  },
+  {
+    "FlightId": "SK1460",
+    "FromAirport": "CPH",
+    "FromAirportName": "Copenhagen",
+    "ToAirport": "OSL",
+    "ToAirportName": "Oslo",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309011635"
+  },
+  {
+    "FlightId": "DY941",
+    "FromAirport": "CPH",
+    "FromAirportName": "Copenhagen",
+    "ToAirport": "OSL",
+    "ToAirportName": "Oslo",
+    "AirlineName": "Norwegian",
+    "ScheduledTimeFull": "202309011640"
+  },
+  {
+    "FlightId": "SK460",
+    "FromAirport": "CPH",
+    "FromAirportName": "Copenhagen",
+    "ToAirport": "OSL",
+    "ToAirportName": "Oslo",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309011735"
+  },
+  {
+    "FlightId": "D83230",
+    "FromAirport": "CPH",
+    "FromAirportName": "Copenhagen",
+    "ToAirport": "OSL",
+    "ToAirportName": "Oslo",
+    "AirlineName": "Norwegian",
+    "ScheduledTimeFull": "202309011810"
+  },
+  {
+    "FlightId": "SK1468",
+    "FromAirport": "CPH",
+    "FromAirportName": "Copenhagen",
+    "ToAirport": "OSL",
+    "ToAirportName": "Oslo",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309011815"
+  },
+  {
+    "FlightId": "SK462",
+    "FromAirport": "CPH",
+    "FromAirportName": "Copenhagen",
+    "ToAirport": "OSL",
+    "ToAirportName": "Oslo",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309011915"
+  },
+  {
+    "FlightId": "SK1470",
+    "FromAirport": "CPH",
+    "FromAirportName": "Copenhagen",
+    "ToAirport": "OSL",
+    "ToAirportName": "Oslo",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309012015"
+  },
+  {
+    "FlightId": "DY949",
+    "FromAirport": "CPH",
+    "FromAirportName": "Copenhagen",
+    "ToAirport": "OSL",
+    "ToAirportName": "Oslo",
+    "AirlineName": "Norwegian",
+    "ScheduledTimeFull": "202309012020"
+  },
+  {
+    "FlightId": "D83234",
+    "FromAirport": "CPH",
+    "FromAirportName": "Copenhagen",
+    "ToAirport": "OSL",
+    "ToAirportName": "Oslo",
+    "AirlineName": "Norwegian",
+    "ScheduledTimeFull": "202309012140"
+  },
+  {
+    "FlightId": "SK1474",
+    "FromAirport": "CPH",
+    "FromAirportName": "Copenhagen",
+    "ToAirport": "OSL",
+    "ToAirportName": "Oslo",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309020010"
+  },
+  {
+    "FlightId": "SK1462",
+    "FromAirport": "CPH",
+    "FromAirportName": "Copenhagen",
+    "ToAirport": "OSL",
+    "ToAirportName": "Oslo",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309020920"
+  },
+  {
+    "FlightId": "DY933",
+    "FromAirport": "CPH",
+    "FromAirportName": "Copenhagen",
+    "ToAirport": "OSL",
+    "ToAirportName": "Oslo",
+    "AirlineName": "Norwegian",
+    "ScheduledTimeFull": "202309021030"
+  },
+  {
+    "FlightId": "SK1458",
+    "FromAirport": "CPH",
+    "FromAirportName": "Copenhagen",
+    "ToAirport": "OSL",
+    "ToAirportName": "Oslo",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309021255"
+  },
+  {
+    "FlightId": "DY941",
+    "FromAirport": "CPH",
+    "FromAirportName": "Copenhagen",
+    "ToAirport": "OSL",
+    "ToAirportName": "Oslo",
+    "AirlineName": "Norwegian",
+    "ScheduledTimeFull": "202309021555"
+  },
+  {
+    "FlightId": "SK1460",
+    "FromAirport": "CPH",
+    "FromAirportName": "Copenhagen",
+    "ToAirport": "OSL",
+    "ToAirportName": "Oslo",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309021640"
+  },
+  {
+    "FlightId": "SK462",
+    "FromAirport": "CPH",
+    "FromAirportName": "Copenhagen",
+    "ToAirport": "OSL",
+    "ToAirportName": "Oslo",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309021930"
+  },
+  {
+    "FlightId": "DY949",
+    "FromAirport": "CPH",
+    "FromAirportName": "Copenhagen",
+    "ToAirport": "OSL",
+    "ToAirportName": "Oslo",
+    "AirlineName": "Norwegian",
+    "ScheduledTimeFull": "202309021945"
+  },
+  {
+    "FlightId": "SK1472",
+    "FromAirport": "CPH",
+    "FromAirportName": "Copenhagen",
+    "ToAirport": "OSL",
+    "ToAirportName": "Oslo",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309022200"
+  },
+  {
+    "FlightId": "ET714",
+    "FromAirport": "ARN",
+    "FromAirportName": "Stockholm",
+    "ToAirport": "OSL",
+    "ToAirportName": "Oslo",
+    "AirlineName": "Ethiopian Airlines",
+    "ScheduledTimeFull": "202309020845"
+  },
+  {
+    "FlightId": "SK843",
+    "FromAirport": "ARN",
+    "FromAirportName": "Stockholm",
+    "ToAirport": "OSL",
+    "ToAirportName": "Oslo",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309020900"
+  },
+  {
+    "FlightId": "DY805",
+    "FromAirport": "ARN",
+    "FromAirportName": "Stockholm",
+    "ToAirport": "OSL",
+    "ToAirportName": "Oslo",
+    "AirlineName": "Norwegian",
+    "ScheduledTimeFull": "202309021010"
+  },
+  {
+    "FlightId": "SK483",
+    "FromAirport": "ARN",
+    "FromAirportName": "Stockholm",
+    "ToAirport": "OSL",
+    "ToAirportName": "Oslo",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309021025"
+  },
+  {
+    "FlightId": "DY813",
+    "FromAirport": "ARN",
+    "FromAirportName": "Stockholm",
+    "ToAirport": "OSL",
+    "ToAirportName": "Oslo",
+    "AirlineName": "Norwegian",
+    "ScheduledTimeFull": "202309021400"
+  },
+  {
+    "FlightId": "SK489",
+    "FromAirport": "ARN",
+    "FromAirportName": "Stockholm",
+    "ToAirport": "OSL",
+    "ToAirportName": "Oslo",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309021410"
+  },
+  {
+    "FlightId": "SK491",
+    "FromAirport": "ARN",
+    "FromAirportName": "Stockholm",
+    "ToAirport": "OSL",
+    "ToAirportName": "Oslo",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309021730"
+  },
+  {
+    "FlightId": "SK885",
+    "FromAirport": "ARN",
+    "FromAirportName": "Stockholm",
+    "ToAirport": "OSL",
+    "ToAirportName": "Oslo",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309021840"
+  },
+  {
+    "FlightId": "ET714",
+    "FromAirport": "ARN",
+    "FromAirportName": "Stockholm",
+    "ToAirport": "OSL",
+    "ToAirportName": "Oslo",
+    "AirlineName": "Ethiopian Airlines",
+    "ScheduledTimeFull": "202309030845"
+  },
+  {
+    "FlightId": "SK483",
+    "FromAirport": "ARN",
+    "FromAirportName": "Stockholm",
+    "ToAirport": "OSL",
+    "ToAirportName": "Oslo",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309031000"
+  },
+  {
+    "FlightId": "DY805",
+    "FromAirport": "ARN",
+    "FromAirportName": "Stockholm",
+    "ToAirport": "OSL",
+    "ToAirportName": "Oslo",
+    "AirlineName": "Norwegian",
+    "ScheduledTimeFull": "202309031010"
+  },
+  {
+    "FlightId": "DY807",
+    "FromAirport": "ARN",
+    "FromAirportName": "Stockholm",
+    "ToAirport": "OSL",
+    "ToAirportName": "Oslo",
+    "AirlineName": "Norwegian",
+    "ScheduledTimeFull": "202309031200"
+  },
+  {
+    "FlightId": "SK489",
+    "FromAirport": "ARN",
+    "FromAirportName": "Stockholm",
+    "ToAirport": "OSL",
+    "ToAirportName": "Oslo",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309031320"
+  },
+  {
+    "FlightId": "DY815",
+    "FromAirport": "ARN",
+    "FromAirportName": "Stockholm",
+    "ToAirport": "OSL",
+    "ToAirportName": "Oslo",
+    "AirlineName": "Norwegian",
+    "ScheduledTimeFull": "202309031630"
+  },
+  {
+    "FlightId": "SK491",
+    "FromAirport": "ARN",
+    "FromAirportName": "Stockholm",
+    "ToAirport": "OSL",
+    "ToAirportName": "Oslo",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309031640"
+  },
+  {
+    "FlightId": "SK885",
+    "FromAirport": "ARN",
+    "FromAirportName": "Stockholm",
+    "ToAirport": "OSL",
+    "ToAirportName": "Oslo",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309031845"
+  },
+  {
+    "FlightId": "DY823",
+    "FromAirport": "ARN",
+    "FromAirportName": "Stockholm",
+    "ToAirport": "OSL",
+    "ToAirportName": "Oslo",
+    "AirlineName": "Norwegian",
+    "ScheduledTimeFull": "202309031930"
+  },
+  {
+    "FlightId": "SK493",
+    "FromAirport": "ARN",
+    "FromAirportName": "Stockholm",
+    "ToAirport": "OSL",
+    "ToAirportName": "Oslo",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309032000"
+  },
+  {
+    "FlightId": "D84119",
+    "FromAirport": "ARN",
+    "FromAirportName": "Stockholm",
+    "ToAirport": "OSL",
+    "ToAirportName": "Oslo",
+    "AirlineName": "Norwegian",
+    "ScheduledTimeFull": "202309032010"
+  },
+  {
+    "FlightId": "SK897",
+    "FromAirport": "ARN",
+    "FromAirportName": "Stockholm",
+    "ToAirport": "OSL",
+    "ToAirportName": "Oslo",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309032130"
+  },
+  {
+    "FlightId": "DY827",
+    "FromAirport": "ARN",
+    "FromAirportName": "Stockholm",
+    "ToAirport": "OSL",
+    "ToAirportName": "Oslo",
+    "AirlineName": "Norwegian",
+    "ScheduledTimeFull": "202309032230"
+  },
+  {
+    "FlightId": "SK1483",
+    "FromAirport": "ARN",
+    "FromAirportName": "Stockholm",
+    "ToAirport": "OSL",
+    "ToAirportName": "Oslo",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309032310"
+  },
+  {
+    "FlightId": "DY829",
+    "FromAirport": "ARN",
+    "FromAirportName": "Stockholm",
+    "ToAirport": "OSL",
+    "ToAirportName": "Oslo",
+    "AirlineName": "Norwegian",
+    "ScheduledTimeFull": "202309032330"
+  },
+  {
+    "FlightId": "SK1462",
+    "FromAirport": "CPH",
+    "FromAirportName": "Copenhagen",
+    "ToAirport": "OSL",
+    "ToAirportName": "Oslo",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309030910"
+  },
+  {
+    "FlightId": "DY933",
+    "FromAirport": "CPH",
+    "FromAirportName": "Copenhagen",
+    "ToAirport": "OSL",
+    "ToAirportName": "Oslo",
+    "AirlineName": "Norwegian",
+    "ScheduledTimeFull": "202309031035"
+  },
+  {
+    "FlightId": "DY935",
+    "FromAirport": "CPH",
+    "FromAirportName": "Copenhagen",
+    "ToAirport": "OSL",
+    "ToAirportName": "Oslo",
+    "AirlineName": "Norwegian",
+    "ScheduledTimeFull": "202309031155"
+  },
+  {
+    "FlightId": "SK1458",
+    "FromAirport": "CPH",
+    "FromAirportName": "Copenhagen",
+    "ToAirport": "OSL",
+    "ToAirportName": "Oslo",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309031255"
+  },
+  {
+    "FlightId": "D83228",
+    "FromAirport": "CPH",
+    "FromAirportName": "Copenhagen",
+    "ToAirport": "OSL",
+    "ToAirportName": "Oslo",
+    "AirlineName": "Norwegian",
+    "ScheduledTimeFull": "202309031345"
+  },
+  {
+    "FlightId": "SK1456",
+    "FromAirport": "CPH",
+    "FromAirportName": "Copenhagen",
+    "ToAirport": "OSL",
+    "ToAirportName": "Oslo",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309031440"
+  },
+  {
+    "FlightId": "SK458",
+    "FromAirport": "CPH",
+    "FromAirportName": "Copenhagen",
+    "ToAirport": "OSL",
+    "ToAirportName": "Oslo",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309031530"
+  },
+  {
+    "FlightId": "SK1460",
+    "FromAirport": "CPH",
+    "FromAirportName": "Copenhagen",
+    "ToAirport": "OSL",
+    "ToAirportName": "Oslo",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309031635"
+  },
+  {
+    "FlightId": "DY941",
+    "FromAirport": "CPH",
+    "FromAirportName": "Copenhagen",
+    "ToAirport": "OSL",
+    "ToAirportName": "Oslo",
+    "AirlineName": "Norwegian",
+    "ScheduledTimeFull": "202309031640"
+  },
+  {
+    "FlightId": "SK460",
+    "FromAirport": "CPH",
+    "FromAirportName": "Copenhagen",
+    "ToAirport": "OSL",
+    "ToAirportName": "Oslo",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309031725"
+  },
+  {
+    "FlightId": "D83230",
+    "FromAirport": "CPH",
+    "FromAirportName": "Copenhagen",
+    "ToAirport": "OSL",
+    "ToAirportName": "Oslo",
+    "AirlineName": "Norwegian",
+    "ScheduledTimeFull": "202309031810"
+  },
+  {
+    "FlightId": "SK462",
+    "FromAirport": "CPH",
+    "FromAirportName": "Copenhagen",
+    "ToAirport": "OSL",
+    "ToAirportName": "Oslo",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309031915"
+  },
+  {
+    "FlightId": "D83232",
+    "FromAirport": "CPH",
+    "FromAirportName": "Copenhagen",
+    "ToAirport": "OSL",
+    "ToAirportName": "Oslo",
+    "AirlineName": "Norwegian",
+    "ScheduledTimeFull": "202309032000"
+  },
+  {
+    "FlightId": "SK1470",
+    "FromAirport": "CPH",
+    "FromAirportName": "Copenhagen",
+    "ToAirport": "OSL",
+    "ToAirportName": "Oslo",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309032015"
+  },
+  {
+    "FlightId": "DY949",
+    "FromAirport": "CPH",
+    "FromAirportName": "Copenhagen",
+    "ToAirport": "OSL",
+    "ToAirportName": "Oslo",
+    "AirlineName": "Norwegian",
+    "ScheduledTimeFull": "202309032020"
+  },
+  {
+    "FlightId": "SK1472",
+    "FromAirport": "CPH",
+    "FromAirportName": "Copenhagen",
+    "ToAirport": "OSL",
+    "ToAirportName": "Oslo",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309032125"
+  },
+  {
+    "FlightId": "D83234",
+    "FromAirport": "CPH",
+    "FromAirportName": "Copenhagen",
+    "ToAirport": "OSL",
+    "ToAirportName": "Oslo",
+    "AirlineName": "Norwegian",
+    "ScheduledTimeFull": "202309032140"
+  },
+  {
+    "FlightId": "SK1474",
+    "FromAirport": "CPH",
+    "FromAirportName": "Copenhagen",
+    "ToAirport": "OSL",
+    "ToAirportName": "Oslo",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309040010"
+  },
+  {
+    "FlightId": "D83220",
+    "FromAirport": "CPH",
+    "FromAirportName": "Copenhagen",
+    "ToAirport": "OSL",
+    "ToAirportName": "Oslo",
+    "AirlineName": "Norwegian",
+    "ScheduledTimeFull": "202309040820"
+  },
+  {
+    "FlightId": "SK454",
+    "FromAirport": "CPH",
+    "FromAirportName": "Copenhagen",
+    "ToAirport": "OSL",
+    "ToAirportName": "Oslo",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309040830"
+  },
+  {
+    "FlightId": "SK1462",
+    "FromAirport": "CPH",
+    "FromAirportName": "Copenhagen",
+    "ToAirport": "OSL",
+    "ToAirportName": "Oslo",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309040910"
+  },
+  {
+    "FlightId": "SK1464",
+    "FromAirport": "CPH",
+    "FromAirportName": "Copenhagen",
+    "ToAirport": "OSL",
+    "ToAirportName": "Oslo",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309041020"
+  },
+  {
+    "FlightId": "DY933",
+    "FromAirport": "CPH",
+    "FromAirportName": "Copenhagen",
+    "ToAirport": "OSL",
+    "ToAirportName": "Oslo",
+    "AirlineName": "Norwegian",
+    "ScheduledTimeFull": "202309041030"
+  },
+  {
+    "FlightId": "SK452",
+    "FromAirport": "CPH",
+    "FromAirportName": "Copenhagen",
+    "ToAirport": "OSL",
+    "ToAirportName": "Oslo",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309041110"
+  },
+  {
+    "FlightId": "D83224",
+    "FromAirport": "CPH",
+    "FromAirportName": "Copenhagen",
+    "ToAirport": "OSL",
+    "ToAirportName": "Oslo",
+    "AirlineName": "Norwegian",
+    "ScheduledTimeFull": "202309041200"
+  },
+  {
+    "FlightId": "SK1456",
+    "FromAirport": "CPH",
+    "FromAirportName": "Copenhagen",
+    "ToAirport": "OSL",
+    "ToAirportName": "Oslo",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309041340"
+  },
+  {
+    "FlightId": "D83228",
+    "FromAirport": "CPH",
+    "FromAirportName": "Copenhagen",
+    "ToAirport": "OSL",
+    "ToAirportName": "Oslo",
+    "AirlineName": "Norwegian",
+    "ScheduledTimeFull": "202309041525"
+  },
+  {
+    "FlightId": "SK458",
+    "FromAirport": "CPH",
+    "FromAirportName": "Copenhagen",
+    "ToAirport": "OSL",
+    "ToAirportName": "Oslo",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309041530"
+  },
+  {
+    "FlightId": "SK1460",
+    "FromAirport": "CPH",
+    "FromAirportName": "Copenhagen",
+    "ToAirport": "OSL",
+    "ToAirportName": "Oslo",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309041635"
+  },
+  {
+    "FlightId": "DY941",
+    "FromAirport": "CPH",
+    "FromAirportName": "Copenhagen",
+    "ToAirport": "OSL",
+    "ToAirportName": "Oslo",
+    "AirlineName": "Norwegian",
+    "ScheduledTimeFull": "202309041640"
+  },
+  {
+    "FlightId": "D83230",
+    "FromAirport": "CPH",
+    "FromAirportName": "Copenhagen",
+    "ToAirport": "OSL",
+    "ToAirportName": "Oslo",
+    "AirlineName": "Norwegian",
+    "ScheduledTimeFull": "202309041810"
+  },
+  {
+    "FlightId": "SK1468",
+    "FromAirport": "CPH",
+    "FromAirportName": "Copenhagen",
+    "ToAirport": "OSL",
+    "ToAirportName": "Oslo",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309041815"
+  },
+  {
+    "FlightId": "SK462",
+    "FromAirport": "CPH",
+    "FromAirportName": "Copenhagen",
+    "ToAirport": "OSL",
+    "ToAirportName": "Oslo",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309041915"
+  },
+  {
+    "FlightId": "SK1470",
+    "FromAirport": "CPH",
+    "FromAirportName": "Copenhagen",
+    "ToAirport": "OSL",
+    "ToAirportName": "Oslo",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309042015"
+  },
+  {
+    "FlightId": "DY949",
+    "FromAirport": "CPH",
+    "FromAirportName": "Copenhagen",
+    "ToAirport": "OSL",
+    "ToAirportName": "Oslo",
+    "AirlineName": "Norwegian",
+    "ScheduledTimeFull": "202309042020"
+  },
+  {
+    "FlightId": "D83234",
+    "FromAirport": "CPH",
+    "FromAirportName": "Copenhagen",
+    "ToAirport": "OSL",
+    "ToAirportName": "Oslo",
+    "AirlineName": "Norwegian",
+    "ScheduledTimeFull": "202309042140"
+  },
+  {
+    "FlightId": "SK1472",
+    "FromAirport": "CPH",
+    "FromAirportName": "Copenhagen",
+    "ToAirport": "OSL",
+    "ToAirportName": "Oslo",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309042200"
+  },
+  {
+    "FlightId": "SK481",
+    "FromAirport": "ARN",
+    "FromAirportName": "Stockholm",
+    "ToAirport": "OSL",
+    "ToAirportName": "Oslo",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309040700"
+  },
+  {
+    "FlightId": "D84103",
+    "FromAirport": "ARN",
+    "FromAirportName": "Stockholm",
+    "ToAirport": "OSL",
+    "ToAirportName": "Oslo",
+    "AirlineName": "Norwegian",
+    "ScheduledTimeFull": "202309040800"
+  },
+  {
+    "FlightId": "SK485",
+    "FromAirport": "ARN",
+    "FromAirportName": "Stockholm",
+    "ToAirport": "OSL",
+    "ToAirportName": "Oslo",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309040800"
+  },
+  {
+    "FlightId": "ET714",
+    "FromAirport": "ARN",
+    "FromAirportName": "Stockholm",
+    "ToAirport": "OSL",
+    "ToAirportName": "Oslo",
+    "AirlineName": "Ethiopian Airlines",
+    "ScheduledTimeFull": "202309040845"
+  },
+  {
+    "FlightId": "SK843",
+    "FromAirport": "ARN",
+    "FromAirportName": "Stockholm",
+    "ToAirport": "OSL",
+    "ToAirportName": "Oslo",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309040845"
+  },
+  {
+    "FlightId": "DY803",
+    "FromAirport": "ARN",
+    "FromAirportName": "Stockholm",
+    "ToAirport": "OSL",
+    "ToAirportName": "Oslo",
+    "AirlineName": "Norwegian",
+    "ScheduledTimeFull": "202309040930"
+  },
+  {
+    "FlightId": "SK847",
+    "FromAirport": "ARN",
+    "FromAirportName": "Stockholm",
+    "ToAirport": "OSL",
+    "ToAirportName": "Oslo",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309040945"
+  },
+  {
+    "FlightId": "DY805",
+    "FromAirport": "ARN",
+    "FromAirportName": "Stockholm",
+    "ToAirport": "OSL",
+    "ToAirportName": "Oslo",
+    "AirlineName": "Norwegian",
+    "ScheduledTimeFull": "202309041010"
+  },
+  {
+    "FlightId": "SK483",
+    "FromAirport": "ARN",
+    "FromAirportName": "Stockholm",
+    "ToAirport": "OSL",
+    "ToAirportName": "Oslo",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309041025"
+  },
+  {
+    "FlightId": "SK495",
+    "FromAirport": "ARN",
+    "FromAirportName": "Stockholm",
+    "ToAirport": "OSL",
+    "ToAirportName": "Oslo",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309041315"
+  },
+  {
+    "FlightId": "DY813",
+    "FromAirport": "ARN",
+    "FromAirportName": "Stockholm",
+    "ToAirport": "OSL",
+    "ToAirportName": "Oslo",
+    "AirlineName": "Norwegian",
+    "ScheduledTimeFull": "202309041400"
+  },
+  {
+    "FlightId": "SK867",
+    "FromAirport": "ARN",
+    "FromAirportName": "Stockholm",
+    "ToAirport": "OSL",
+    "ToAirportName": "Oslo",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309041525"
+  },
+  {
+    "FlightId": "D84115",
+    "FromAirport": "ARN",
+    "FromAirportName": "Stockholm",
+    "ToAirport": "OSL",
+    "ToAirportName": "Oslo",
+    "AirlineName": "Norwegian",
+    "ScheduledTimeFull": "202309041600"
+  },
+  {
+    "FlightId": "SK491",
+    "FromAirport": "ARN",
+    "FromAirportName": "Stockholm",
+    "ToAirport": "OSL",
+    "ToAirportName": "Oslo",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309041705"
+  },
+  {
+    "FlightId": "DY817",
+    "FromAirport": "ARN",
+    "FromAirportName": "Stockholm",
+    "ToAirport": "OSL",
+    "ToAirportName": "Oslo",
+    "AirlineName": "Norwegian",
+    "ScheduledTimeFull": "202309041730"
+  },
+  {
+    "FlightId": "SK885",
+    "FromAirport": "ARN",
+    "FromAirportName": "Stockholm",
+    "ToAirport": "OSL",
+    "ToAirportName": "Oslo",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309041845"
+  },
+  {
+    "FlightId": "D84121",
+    "FromAirport": "ARN",
+    "FromAirportName": "Stockholm",
+    "ToAirport": "OSL",
+    "ToAirportName": "Oslo",
+    "AirlineName": "Norwegian",
+    "ScheduledTimeFull": "202309041900"
+  },
+  {
+    "FlightId": "DY823",
+    "FromAirport": "ARN",
+    "FromAirportName": "Stockholm",
+    "ToAirport": "OSL",
+    "ToAirportName": "Oslo",
+    "AirlineName": "Norwegian",
+    "ScheduledTimeFull": "202309042030"
+  },
+  {
+    "FlightId": "SK493",
+    "FromAirport": "ARN",
+    "FromAirportName": "Stockholm",
+    "ToAirport": "OSL",
+    "ToAirportName": "Oslo",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309042030"
+  },
+  {
+    "FlightId": "SK897",
+    "FromAirport": "ARN",
+    "FromAirportName": "Stockholm",
+    "ToAirport": "OSL",
+    "ToAirportName": "Oslo",
+    "AirlineName": "SAS",
+    "ScheduledTimeFull": "202309042215"
+  }
+]
